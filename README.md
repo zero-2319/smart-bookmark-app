@@ -109,11 +109,11 @@ Open [http://localhost:3000](http://localhost:3000)
 4. Deploy and get your live URL
 5. Add the Vercel URL to Google OAuth redirect URIs:
    ```
-   https://smart-bookmark-app-inky-five.vercel.app/auth/callback
+   https://your-app.vercel.app/auth/callback
    ```
 6. In Supabase → **Authentication → URL Configuration**:
-   - Set **Site URL** to `https://smart-bookmark-app-inky-five.vercel.app`
-   - Add `https://smart-bookmark-app-inky-five.vercel.app/**` to Redirect URLs
+   - Set **Site URL** to `https://your-app.vercel.app`
+   - Add `https://your-app.vercel.app/**` to Redirect URLs
 
 ---
 

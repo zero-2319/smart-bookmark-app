@@ -5,7 +5,7 @@ A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS. Use
 ## 🚀 Live Demo
 
 **Live URL:** https://your-app.vercel.app  
-**GitHub:** https://github.com/yourusername/smart-bookmark-app
+**GitHub:** https://github.com/zero-2319/smart-bookmark-app
 
 ---
 

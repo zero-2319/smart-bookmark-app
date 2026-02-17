@@ -4,7 +4,7 @@ A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS. Use
 
 ## 🚀 Live Demo
 
-**Live URL:** https://your-app.vercel.app  
+**Live URL:** https://smart-bookmark-app-inky-five.vercel.app  
 **GitHub:** https://github.com/zero-2319/smart-bookmark-app
 
 ---
@@ -24,7 +24,7 @@ A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS. Use
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js 15 (App Router)
+- **Framework:** Next.js 16 (App Router)
 - **Auth & Database:** Supabase (Auth, PostgreSQL, Realtime)
 - **Styling:** Tailwind CSS
 - **Deployment:** Vercel
@@ -109,11 +109,11 @@ Open [http://localhost:3000](http://localhost:3000)
 4. Deploy and get your live URL
 5. Add the Vercel URL to Google OAuth redirect URIs:
    ```
-   https://your-app.vercel.app/auth/callback
+   https://smart-bookmark-app-inky-five.vercel.app/auth/callback
    ```
 6. In Supabase → **Authentication → URL Configuration**:
-   - Set **Site URL** to `https://your-app.vercel.app`
-   - Add `https://your-app.vercel.app/**` to Redirect URLs
+   - Set **Site URL** to `https://smart-bookmark-app-inky-five.vercel.app`
+   - Add `https://smart-bookmark-app-inky-five.vercel.app/**` to Redirect URLs
 
 ---
 

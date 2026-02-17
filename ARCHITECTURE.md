@@ -7,7 +7,7 @@ The Smart Bookmark Manager is a full-stack web application built with modern tec
 ## Technology Stack
 
 ### Frontend
-- **Next.js 15** - React framework with App Router
+- **Next.js 16** - React framework with App Router
 - **React 19** - UI library
 - **TypeScript** - Type safety
 - **Tailwind CSS** - Utility-first styling
